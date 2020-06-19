@@ -10,7 +10,7 @@
 
 ## 3주차 과제 (2020.06.04)
 
-- [학습률 최적화, 군집 분석 구현, Cost Function](https://github.com/Shin-JH8/S-JH-AI/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
+- [학습률 최적화, 군집 분석 구현, Cost Function](https://github.com/Shin-JH8/S-JH-AI/blob/master/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
 
 ## 4주차 과제 (2020.06.11)
 
